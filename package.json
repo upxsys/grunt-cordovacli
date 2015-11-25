@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "grunt": "^0.4.5",
-    "cordova": "5.4.1",
+    "cordova": "5.4.0",
     "cca": ">=0.6.0",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-clean": "^0.6.0",
@@ -39,7 +39,7 @@
   },
   "peerDependencies": {
     "grunt": "^0.4.5",
-    "cordova": "5.4.1",
+    "cordova": "5.4.0",
     "cca": ">=0.5.1"
   },
   "keywords": [
